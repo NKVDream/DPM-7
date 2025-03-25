@@ -1,0 +1,15 @@
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.AssemblyInfoInputs.cache
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.AssemblyInfo.cs
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.csproj.CoreCompileInputs.cache
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.sourcelink.json
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\bin\Debug\net8.0\dpm-7-8.exe
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\bin\Debug\net8.0\dpm-7-8.deps.json
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\bin\Debug\net8.0\dpm-7-8.runtimeconfig.json
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\bin\Debug\net8.0\dpm-7-8.dll
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\bin\Debug\net8.0\dpm-7-8.pdb
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.dll
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\refint\dpm-7-8.dll
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.pdb
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\dpm-7-8.genruntimeconfig.cache
+C:\Users\kmv23\Desktop\DPM\DPM-7\dpm-7-8\dpm-7-8\obj\Debug\net8.0\ref\dpm-7-8.dll
